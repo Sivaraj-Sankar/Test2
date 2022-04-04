@@ -1,2 +1,4 @@
-print("Welcome to Git Revision")
+var1 = input("User")
+print(var1)
+
 
