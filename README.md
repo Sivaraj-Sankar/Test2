@@ -1,2 +1,2 @@
 # Test2
-Git Demonstration
+Git Demonstration Project
